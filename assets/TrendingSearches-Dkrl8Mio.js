@@ -1,0 +1,1 @@
+import{j as e,L as n}from"./index-DwPgET0-.js";function c({trendings:r}){return e.jsx(e.Fragment,{children:r.slice(0,5).map((s,i)=>e.jsx("li",{children:e.jsx(n,{className:"link",to:`/search/${s}`,children:e.jsx("p",{children:s})})},i))})}export{c as default};
